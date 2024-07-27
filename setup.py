@@ -49,7 +49,3 @@ if __name__ == '__main__':
           'Topic :: Software Development :: Libraries :: Python Modules'
       ],
     )
-
-
-
-
